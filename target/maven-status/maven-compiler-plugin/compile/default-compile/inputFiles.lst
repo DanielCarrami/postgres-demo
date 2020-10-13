@@ -1,0 +1,9 @@
+/Users/danielcarraminana/Desktop/postgres-demo/src/main/java/com/example/postgresdemo/model/Answer.java
+/Users/danielcarraminana/Desktop/postgres-demo/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/Users/danielcarraminana/Desktop/postgres-demo/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/Users/danielcarraminana/Desktop/postgres-demo/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/Users/danielcarraminana/Desktop/postgres-demo/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
+/Users/danielcarraminana/Desktop/postgres-demo/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/Users/danielcarraminana/Desktop/postgres-demo/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/Users/danielcarraminana/Desktop/postgres-demo/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/Users/danielcarraminana/Desktop/postgres-demo/src/main/java/com/example/postgresdemo/model/Question.java
